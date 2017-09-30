@@ -6,5 +6,5 @@
 
 * 1：导弹驱逐舰
 
-![daodan]（
+![daodan] (https://github.com/abbqboy/test1/blob/master/file01/timg.jpg)
 ![Alt text](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/2.png)
