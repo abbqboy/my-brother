@@ -2,8 +2,9 @@
 
 [宋青青航母观光台]（www.tensorflow.org)
 
-#宋青青航母照片
+# 宋青青航母照片
 
 * 1：导弹驱逐舰
 
-![daodan]（https://github.com/abbqboy/test1/blob/master/file01/timg.jpg?raw=true）
+![daodan]（
+![Alt text](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/2.png)
