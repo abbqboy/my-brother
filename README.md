@@ -5,4 +5,5 @@
 #宋青青航母照片
 
 * 1：导弹驱逐舰
-！[daodan]（https://github.com/abbqboy/test1/blob/master/file01/timg.jpg?raw=true）
+
+![daodan]（https://github.com/abbqboy/test1/blob/master/file01/timg.jpg?raw=true）
