@@ -25,3 +25,7 @@
 * 1：航空母舰
 
 ![www](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507105255729&di=03e5297a0485e8d1399c1d71d8a20693&imgtype=0&src=http%3A%2F%2Fi2.cqnews.net%2Fcbg%2Fattachement%2Fjpg%2Fsite1%2F20131012%2F180373c147e713c3138308.jpg)
+
+* 2:导弹驱逐舰
+
+![wwsw](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507105524911&di=d08f1b314c681bca064fb6b6a7f71973&imgtype=0&src=http%3A%2F%2Fphotocdn.sohu.com%2F20130830%2FImg385455845.jpg)
