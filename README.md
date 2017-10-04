@@ -2,7 +2,7 @@
 
 [宋家湾航母观光台]（http://www.hrbeu.edu.cn)
 
-# 宋家湾航母舰队照片
+# 宋家湾航母舰队编制
 
 * 1：航空母舰
 
@@ -20,7 +20,7 @@
 
 ![buji](https://github.com/abbqboy/my-brother/blob/master/file01/444.jpg?raw=true)
 
-# 天津宁河航母编队
+# 天津宁河航母舰队编制
 
 * 1：航空母舰
 
